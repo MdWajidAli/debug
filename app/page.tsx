@@ -146,7 +146,7 @@ export default function LandingPage() {
                   />
                   <button
                     type="submit"
-                    className="w-full bg-coral-500 text-white p-2 rounded hover:bg-coral-600"
+                    className=" bg-slate-300 text-black p-2 rounded duration-300 hover:text-white hover:bg-slate-900"
                   >
                     Subscribe
                   </button>
