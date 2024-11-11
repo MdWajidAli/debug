@@ -78,9 +78,12 @@ export default function LandingPage() {
           {isDesktop ? (
             <>
               <div className="w-1/2 pr-8">
-                <h2 className="text-4xl font-bold mb-4">Empower Your Tech with DebugTech</h2>
+                <h2 className="text-4xl font-bold mb-4">
+                  Empower Your Tech with DebugTech
+                </h2>
                 <p className="mb-8">
-                  We specialize in creating custom software tailored to your needs
+                  We specialize in creating custom software tailored to your
+                  needs
                 </p>
                 <form onSubmit={handleSubmit} className="space-y-4">
                   <input
@@ -126,11 +129,11 @@ export default function LandingPage() {
               </div>
               <div className="bg-pink-50 p-8 rounded-lg">
                 <h2 className="text-3xl font-bold mb-4">
-                  Subscribe to Newsletter
+                  Empower Your Tech with DebugTech
                 </h2>
                 <p className="mb-4">
-                  Get the latest debugging tips and tricks delivered to your
-                  inbox!
+                  We specialize in creating custom software tailored to your
+                  needs
                 </p>
                 <form onSubmit={handleSubmit} className="space-y-4">
                   <input
